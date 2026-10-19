@@ -1,0 +1,19 @@
+{
+  "name": "lab-1",
+  "version": "1.0.0",
+  "description": "Auto-testing module, lab 1: unit-testing for the Mtrx library using Mocha + Chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mtrx": "^0.1.6"
+  },
+  "devDependencies": {
+    "chai": "^6.3.0",
+    "mocha": "^12.0.3"
+  }
+}
